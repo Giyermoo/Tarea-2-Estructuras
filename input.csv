@@ -1,0 +1,1001 @@
+city_name,seismic_level,risk_percent
+La Serena,3,98.21
+Antofagasta,3,65.97
+Copiapó,4,36.01
+La Serena,4,77.85
+Angol,1,27.70
+Calama,5,81.75
+Copiapó,4,13.36
+Viña del Mar,3,66.69
+Rancagua,3,18.40
+Temuco,5,64.76
+Copiapó,2,62.40
+Punta Arenas,1,50.62
+Osorno,3,48.81
+Antofagasta,4,11.53
+Linares,3,
+San Antonio,5,43.77
+Linares,4,18.45
+Copiapó,4,64.07
+Osorno,3,23.51
+Angol,5,59.66
+La Serena,2,14.13
+Talca,5,16.97
+Chillán,1,44.17
+Linares,4,47.45
+Valparaíso,2,99.22
+Puerto Montt,5,94.00
+Valparaíso,2,87.24
+Chillán,2,16.72
+La Serena,1,
+Chillán,5,19.57
+Calama,4,10.05
+Santiago,4,
+Arica,2,52.53
+Iquique,4,83.22
+Chillán,5,
+San Antonio,2,50.24
+Iquique,2,48.47
+Chillán,4,95.88
+Osorno,4,81.02
+Santiago,3,81.18
+Arica,3,16.04
+La Serena,5,35.63
+Temuco,5,83.70
+Chillán,2,67.02
+La Serena,1,59.54
+Santiago,3,70.95
+Linares,2,59.07
+Valparaíso,3,83.47
+Santiago,2,28.69
+Iquique,5,73.99
+Puerto Montt,2,96.97
+Temuco,3,30.26
+Viña del Mar,5,64.37
+Rancagua,5,68.12
+Valparaíso,3,18.26
+Valparaíso,2,97.35
+Iquique,4,92.73
+Santiago,1,71.59
+Antofagasta,3,62.71
+Rancagua,4,49.06
+Calama,2,14.27
+San Antonio,4,76.29
+Concepción,3,37.13
+Chillán,2,60.46
+La Serena,1,15.58
+Calama,5,52.55
+Linares,2,
+Angol,5,69.45
+Temuco,4,64.58
+Iquique,3,15.28
+Iquique,3,44.83
+Calama,3,24.00
+Valparaíso,5,29.25
+Puerto Montt,3,73.28
+Puerto Montt,4,31.82
+San Antonio,4,60.74
+Angol,3,46.78
+Rancagua,2,73.52
+Angol,1,32.36
+Arica,3,21.69
+Talca,4,18.23
+Iquique,3,82.10
+Talca,1,69.93
+San Antonio,1,34.61
+Rancagua,1,25.19
+Concepción,1,57.10
+Chillán,2,53.38
+San Antonio,1,62.21
+Osorno,2,10.06
+Santiago,2,92.87
+Antofagasta,1,
+Angol,3,53.43
+Punta Arenas,5,55.85
+Antofagasta,3,64.86
+Osorno,1,37.00
+Concepción,4,68.52
+La Serena,4,79.59
+Talca,2,14.30
+Viña del Mar,5,11.72
+Viña del Mar,3,59.78
+Talca,5,77.80
+La Serena,3,81.87
+Copiapó,1,88.07
+San Antonio,2,16.67
+San Antonio,4,10.45
+Talca,3,49.37
+Talca,2,14.97
+Talca,4,82.48
+Chillán,1,
+Rancagua,1,46.33
+Angol,4,80.39
+Copiapó,4,13.70
+Santiago,1,45.61
+Valparaíso,2,28.38
+Santiago,5,28.78
+Chillán,3,17.14
+Punta Arenas,1,86.39
+Iquique,3,56.76
+Concepción,1,27.30
+Talca,4,69.23
+Punta Arenas,3,55.69
+Osorno,4,62.75
+Arica,3,92.10
+Punta Arenas,2,31.17
+Osorno,5,73.42
+Antofagasta,1,47.27
+Concepción,5,42.27
+Chillán,1,88.14
+Concepción,5,45.46
+Arica,4,28.99
+Santiago,5,50.68
+La Serena,2,53.79
+Iquique,5,94.02
+Valparaíso,4,27.90
+Arica,4,16.19
+Chillán,5,77.95
+Osorno,5,29.56
+Arica,2,87.49
+Iquique,1,36.20
+Calama,3,47.00
+Linares,2,89.11
+Puerto Montt,1,39.31
+Iquique,2,49.58
+Angol,2,86.86
+Chillán,3,14.06
+Antofagasta,1,43.93
+Arica,2,74.61
+Antofagasta,3,99.16
+Talca,2,81.89
+Antofagasta,5,83.07
+La Serena,2,81.32
+Concepción,3,
+Temuco,5,58.57
+Punta Arenas,3,67.59
+Rancagua,5,98.78
+Osorno,1,88.75
+Angol,4,97.02
+Valparaíso,4,60.99
+Concepción,5,16.10
+Copiapó,1,
+Arica,2,54.51
+Santiago,4,96.16
+Calama,3,91.38
+La Serena,4,42.82
+La Serena,1,23.88
+Viña del Mar,2,93.69
+Valparaíso,4,23.03
+Angol,2,34.36
+Calama,4,44.63
+Valparaíso,5,87.19
+Osorno,3,82.06
+San Antonio,4,83.26
+Linares,2,77.83
+Viña del Mar,4,23.82
+Antofagasta,1,44.67
+Linares,4,56.06
+Linares,3,44.93
+Osorno,1,49.40
+Calama,1,52.57
+Osorno,3,
+Valparaíso,4,94.01
+Angol,2,91.78
+Temuco,5,93.12
+Chillán,1,10.45
+Arica,3,28.07
+Chillán,1,60.86
+La Serena,1,51.38
+Puerto Montt,3,48.12
+Iquique,4,67.69
+Iquique,4,10.85
+Viña del Mar,4,56.42
+Iquique,3,94.05
+Viña del Mar,2,67.62
+Calama,4,
+Linares,2,10.83
+La Serena,1,73.25
+Osorno,5,76.89
+Linares,3,31.47
+Puerto Montt,2,61.50
+Concepción,5,19.44
+Chillán,1,85.32
+Rancagua,4,66.49
+Temuco,5,22.20
+Punta Arenas,2,43.25
+Calama,1,44.22
+La Serena,5,98.94
+Talca,3,66.36
+Angol,2,70.38
+Copiapó,5,32.23
+Punta Arenas,1,68.29
+Rancagua,5,88.15
+Santiago,3,15.01
+Punta Arenas,2,50.64
+Puerto Montt,1,29.01
+Arica,5,38.71
+Chillán,4,84.04
+Rancagua,4,39.76
+Puerto Montt,3,68.39
+Viña del Mar,1,42.45
+Iquique,1,91.26
+Angol,4,87.54
+Copiapó,1,77.65
+Viña del Mar,3,50.35
+Angol,2,11.63
+San Antonio,1,64.53
+Iquique,3,76.69
+San Antonio,1,52.48
+La Serena,4,66.90
+Temuco,3,34.87
+Punta Arenas,3,
+Puerto Montt,3,78.98
+Iquique,5,97.65
+Temuco,3,39.10
+Calama,5,46.37
+Viña del Mar,3,28.97
+Temuco,2,55.79
+Iquique,2,70.24
+Puerto Montt,4,
+Temuco,3,93.08
+Viña del Mar,1,97.82
+Valparaíso,3,99.63
+Linares,2,46.53
+Concepción,4,
+Osorno,1,53.52
+Temuco,3,
+Santiago,3,89.28
+Copiapó,2,54.13
+Iquique,1,70.99
+Valparaíso,3,
+Valparaíso,4,23.62
+Punta Arenas,5,65.03
+Iquique,3,34.31
+Arica,1,11.67
+Calama,5,92.20
+Temuco,1,
+Valparaíso,3,30.24
+Arica,1,87.46
+Talca,3,12.53
+Angol,3,78.06
+La Serena,5,91.72
+Talca,3,85.72
+Punta Arenas,5,
+La Serena,5,70.73
+Calama,4,45.48
+Santiago,5,83.70
+Santiago,4,12.03
+Valparaíso,1,18.55
+Concepción,1,59.15
+Copiapó,3,24.05
+Angol,5,91.63
+Copiapó,2,74.04
+Rancagua,1,70.48
+Temuco,1,22.41
+San Antonio,5,43.81
+Temuco,3,84.40
+La Serena,2,87.06
+Antofagasta,4,96.18
+Angol,4,
+Angol,2,84.81
+Chillán,4,68.65
+Copiapó,3,77.80
+Arica,1,27.32
+Temuco,3,
+Antofagasta,2,74.74
+Rancagua,3,43.59
+Santiago,1,19.33
+Osorno,5,70.48
+Calama,1,94.24
+Antofagasta,2,45.18
+Valparaíso,5,45.81
+Rancagua,3,34.85
+Copiapó,1,21.98
+Concepción,5,98.02
+Viña del Mar,1,73.14
+Rancagua,2,22.07
+Concepción,4,36.22
+Concepción,1,61.90
+Viña del Mar,1,53.94
+Rancagua,1,12.42
+San Antonio,3,
+Rancagua,2,28.87
+Copiapó,4,51.54
+Rancagua,2,27.59
+Chillán,3,
+Copiapó,2,59.52
+Punta Arenas,4,
+Talca,2,79.77
+Concepción,4,98.69
+Calama,3,68.02
+Chillán,4,10.05
+Santiago,3,
+Talca,3,78.29
+Puerto Montt,2,81.37
+Rancagua,3,50.98
+Santiago,5,30.50
+Puerto Montt,2,49.44
+Santiago,4,71.94
+Talca,2,73.49
+Antofagasta,5,11.37
+La Serena,4,95.81
+Viña del Mar,1,47.41
+Santiago,5,89.82
+Copiapó,5,27.32
+Iquique,3,
+Iquique,4,92.33
+Valparaíso,1,11.48
+Osorno,2,10.96
+Iquique,5,
+Talca,1,27.62
+Valparaíso,2,60.28
+Punta Arenas,4,94.80
+Viña del Mar,4,
+Talca,1,
+Chillán,3,23.17
+Temuco,3,44.33
+Santiago,1,91.58
+Rancagua,2,49.91
+Santiago,3,30.77
+Copiapó,3,19.10
+Temuco,5,73.60
+Santiago,4,83.35
+Santiago,2,55.78
+Antofagasta,5,95.83
+Iquique,3,27.33
+Chillán,3,
+Chillán,1,86.30
+Santiago,1,48.70
+Iquique,5,18.31
+La Serena,2,32.54
+Puerto Montt,3,99.54
+Calama,1,16.22
+Iquique,5,78.63
+Viña del Mar,5,42.73
+Puerto Montt,2,28.07
+Arica,4,13.25
+Viña del Mar,3,11.68
+Copiapó,2,95.12
+Viña del Mar,5,54.59
+San Antonio,5,
+Arica,1,21.52
+Talca,4,62.97
+Valparaíso,2,58.07
+Iquique,1,
+Punta Arenas,3,78.41
+San Antonio,5,46.79
+Linares,3,57.92
+Copiapó,1,35.80
+Chillán,3,26.05
+Valparaíso,3,68.46
+Temuco,1,19.84
+La Serena,2,88.96
+Santiago,3,32.31
+Angol,2,72.85
+Antofagasta,1,48.96
+Copiapó,5,35.33
+Angol,3,53.73
+San Antonio,4,38.54
+Antofagasta,2,15.42
+Punta Arenas,3,71.24
+Talca,1,34.12
+Angol,4,79.29
+Iquique,4,42.60
+Calama,2,28.98
+Linares,4,24.78
+Valparaíso,3,17.41
+San Antonio,2,99.03
+San Antonio,1,79.30
+Chillán,1,
+Copiapó,1,53.56
+Santiago,5,70.87
+Talca,5,27.85
+Arica,1,
+San Antonio,2,70.93
+Concepción,2,92.43
+Osorno,5,82.27
+Linares,4,10.14
+Angol,3,86.41
+Calama,3,61.68
+Santiago,5,45.38
+Valparaíso,4,43.44
+Calama,4,80.36
+Rancagua,5,36.37
+Rancagua,1,81.15
+Chillán,2,73.85
+San Antonio,4,98.09
+La Serena,3,28.01
+Calama,2,
+Angol,1,80.79
+Calama,2,59.93
+Concepción,5,41.45
+Iquique,4,
+Punta Arenas,2,89.03
+Iquique,4,
+Viña del Mar,4,68.72
+Calama,5,10.18
+Iquique,5,42.07
+Valparaíso,5,93.51
+Santiago,1,
+Osorno,1,36.34
+Concepción,5,14.23
+Chillán,2,39.89
+Concepción,3,81.44
+Viña del Mar,5,66.59
+Arica,4,75.36
+Talca,2,11.09
+Antofagasta,3,43.85
+Osorno,4,14.77
+Concepción,2,58.12
+Osorno,1,97.85
+Arica,3,88.20
+Osorno,4,23.07
+Antofagasta,1,
+San Antonio,4,58.86
+Arica,2,31.03
+Linares,4,22.72
+Iquique,5,51.88
+Concepción,1,96.87
+Antofagasta,5,57.02
+Osorno,4,21.97
+Puerto Montt,2,25.05
+Calama,1,63.92
+Valparaíso,2,17.51
+Viña del Mar,5,67.98
+Angol,3,89.09
+Antofagasta,2,57.82
+Talca,4,67.79
+Puerto Montt,4,46.50
+Temuco,3,75.60
+Iquique,2,66.68
+Arica,1,69.23
+Rancagua,1,80.73
+Iquique,4,35.37
+San Antonio,4,55.71
+Temuco,5,87.12
+Concepción,5,93.55
+Viña del Mar,2,40.52
+Punta Arenas,2,15.63
+Antofagasta,5,13.83
+La Serena,2,12.18
+Rancagua,4,35.96
+Angol,5,18.07
+Copiapó,1,93.45
+Calama,3,61.82
+Chillán,1,24.62
+Osorno,1,68.00
+Calama,5,26.74
+Chillán,1,46.31
+Iquique,5,10.95
+Angol,5,65.96
+La Serena,2,37.52
+Temuco,5,37.01
+Chillán,1,
+San Antonio,3,15.38
+Talca,3,48.92
+Viña del Mar,3,10.46
+Calama,4,35.33
+Valparaíso,3,47.48
+Temuco,5,93.30
+Antofagasta,3,98.60
+Viña del Mar,4,
+Punta Arenas,4,78.62
+Punta Arenas,1,96.67
+Talca,3,43.70
+Linares,1,39.13
+Angol,1,97.82
+Viña del Mar,3,82.18
+Valparaíso,3,82.23
+Linares,2,37.12
+Temuco,5,12.50
+Puerto Montt,4,56.89
+La Serena,2,44.79
+Antofagasta,1,92.83
+Calama,5,18.99
+Calama,5,43.08
+Osorno,4,77.28
+Punta Arenas,1,29.91
+Viña del Mar,2,95.99
+Temuco,1,12.69
+Talca,1,27.74
+Concepción,1,
+Viña del Mar,1,69.57
+Rancagua,5,51.32
+Temuco,1,77.29
+Viña del Mar,5,11.81
+Copiapó,4,82.74
+Chillán,3,66.19
+Chillán,1,58.79
+Calama,4,60.12
+Osorno,2,
+Concepción,3,
+Osorno,3,90.08
+Arica,2,16.19
+Copiapó,5,95.08
+Osorno,3,
+La Serena,3,
+Punta Arenas,1,58.19
+Copiapó,5,20.31
+Iquique,5,27.88
+San Antonio,1,95.59
+Calama,5,
+Antofagasta,4,
+Calama,1,45.63
+Calama,1,82.99
+Talca,2,84.08
+Arica,5,50.37
+La Serena,1,53.52
+Chillán,3,47.79
+Rancagua,2,47.03
+Punta Arenas,4,
+Temuco,4,93.04
+Concepción,3,95.29
+Iquique,5,92.00
+Valparaíso,1,84.52
+Punta Arenas,1,55.05
+Santiago,2,41.45
+Antofagasta,3,69.11
+Osorno,3,22.92
+Santiago,3,91.35
+Chillán,4,97.20
+Calama,3,70.47
+Temuco,2,38.26
+Valparaíso,5,79.95
+Puerto Montt,4,79.67
+Concepción,3,53.01
+Puerto Montt,5,91.36
+Viña del Mar,1,94.44
+Punta Arenas,2,32.42
+Santiago,5,82.38
+Concepción,5,32.48
+Rancagua,5,13.36
+Viña del Mar,2,79.18
+Puerto Montt,3,26.40
+Punta Arenas,2,17.39
+Rancagua,4,56.13
+Linares,1,15.50
+Concepción,4,20.49
+Rancagua,1,65.11
+Puerto Montt,3,84.13
+Viña del Mar,4,63.33
+Linares,3,75.55
+Valparaíso,5,33.66
+Punta Arenas,3,37.81
+Viña del Mar,3,52.54
+Arica,4,39.10
+Santiago,3,22.14
+Puerto Montt,4,90.65
+Antofagasta,2,77.50
+Santiago,3,18.73
+Osorno,2,89.17
+Iquique,5,89.00
+Arica,5,90.27
+Arica,1,11.17
+Punta Arenas,2,31.97
+Rancagua,1,80.45
+Valparaíso,4,14.28
+Iquique,3,11.51
+Punta Arenas,3,47.76
+La Serena,3,38.05
+Puerto Montt,3,49.44
+Viña del Mar,2,53.42
+Calama,4,
+Angol,4,
+Concepción,2,65.94
+Punta Arenas,2,59.97
+Valparaíso,4,37.12
+Rancagua,4,68.44
+Puerto Montt,2,29.29
+Arica,5,
+Copiapó,3,56.73
+Osorno,2,96.40
+Rancagua,5,
+La Serena,4,86.66
+La Serena,5,65.23
+Iquique,4,94.25
+Rancagua,5,17.46
+Calama,5,25.39
+Punta Arenas,1,88.75
+Angol,5,44.84
+Iquique,2,72.97
+La Serena,2,31.70
+Chillán,5,
+Copiapó,3,
+Copiapó,4,44.84
+Viña del Mar,3,37.74
+Valparaíso,2,61.63
+Linares,3,23.81
+Talca,1,36.93
+Temuco,5,26.94
+Iquique,5,66.18
+Temuco,5,84.22
+Santiago,1,63.63
+Arica,3,55.99
+Temuco,1,34.00
+Angol,1,16.48
+Arica,1,20.33
+Rancagua,2,60.36
+Calama,4,71.31
+Rancagua,5,17.05
+Valparaíso,3,61.23
+San Antonio,5,96.88
+La Serena,1,76.62
+Iquique,5,26.57
+Santiago,1,73.32
+Puerto Montt,4,83.54
+Osorno,5,32.73
+Puerto Montt,2,71.22
+Viña del Mar,5,52.65
+Temuco,4,73.74
+Angol,4,28.07
+Rancagua,2,31.29
+Talca,3,98.60
+Arica,1,74.30
+Viña del Mar,3,16.51
+Angol,5,12.31
+Viña del Mar,1,89.79
+Temuco,3,84.40
+Arica,2,93.96
+Arica,5,77.33
+Copiapó,1,44.32
+Iquique,2,
+Iquique,4,13.17
+Rancagua,2,
+Angol,1,69.65
+San Antonio,2,23.06
+Copiapó,4,
+Angol,3,44.92
+Arica,2,48.11
+Angol,5,55.60
+Osorno,1,12.15
+Santiago,2,
+Talca,1,38.10
+Talca,3,
+Rancagua,1,20.54
+Santiago,1,48.17
+San Antonio,5,30.73
+Calama,1,76.14
+Viña del Mar,4,53.57
+Chillán,3,51.87
+Angol,1,10.27
+Talca,1,83.20
+Santiago,4,80.92
+Puerto Montt,2,93.20
+Iquique,4,78.92
+Chillán,3,69.14
+San Antonio,4,
+Iquique,3,86.76
+Linares,1,81.75
+Angol,4,48.49
+Santiago,2,21.05
+Calama,5,24.06
+Valparaíso,4,17.46
+Osorno,3,44.37
+Concepción,2,33.03
+Angol,5,47.44
+Linares,5,95.26
+Concepción,5,36.01
+Iquique,4,76.00
+Viña del Mar,4,64.03
+Linares,5,71.46
+Linares,5,
+Chillán,1,89.73
+Valparaíso,5,84.07
+Santiago,4,54.50
+Calama,3,74.21
+Calama,3,74.68
+Talca,3,53.76
+Iquique,1,56.16
+Osorno,2,28.03
+Punta Arenas,4,66.53
+Copiapó,2,93.38
+Rancagua,3,97.80
+Temuco,2,96.10
+Copiapó,2,80.09
+Iquique,5,56.46
+Valparaíso,4,69.60
+Santiago,3,18.25
+Iquique,4,23.64
+La Serena,3,62.28
+Santiago,4,66.67
+Chillán,5,71.38
+La Serena,1,77.10
+Punta Arenas,1,67.32
+Valparaíso,2,12.74
+Antofagasta,5,
+Valparaíso,1,83.94
+Arica,5,74.89
+Viña del Mar,4,37.08
+Santiago,1,88.23
+Concepción,3,39.49
+La Serena,5,39.76
+Chillán,1,32.17
+Talca,2,50.34
+Puerto Montt,5,13.80
+Osorno,3,90.48
+Iquique,2,77.92
+Valparaíso,1,23.10
+La Serena,5,93.22
+Iquique,4,30.29
+Antofagasta,3,74.94
+Chillán,1,62.09
+Puerto Montt,1,34.61
+Arica,5,25.86
+San Antonio,3,98.97
+Arica,4,70.84
+Rancagua,2,56.64
+Punta Arenas,3,
+Chillán,3,
+Copiapó,5,55.43
+Copiapó,3,65.58
+Calama,1,
+Valparaíso,5,91.88
+San Antonio,5,29.35
+Copiapó,1,24.14
+Concepción,2,53.86
+Puerto Montt,4,28.09
+Arica,1,
+San Antonio,1,30.23
+Santiago,4,33.58
+Calama,5,27.87
+Talca,2,44.41
+Viña del Mar,3,83.04
+Valparaíso,1,73.26
+Copiapó,1,58.11
+La Serena,1,22.22
+Calama,4,53.19
+Linares,3,26.53
+Linares,5,83.14
+San Antonio,1,27.10
+Temuco,5,76.18
+Punta Arenas,1,
+Concepción,2,56.53
+Santiago,5,73.99
+Copiapó,5,68.16
+Copiapó,3,58.59
+Osorno,1,70.11
+La Serena,5,59.02
+Santiago,1,20.14
+San Antonio,3,81.55
+Angol,2,53.37
+Arica,4,12.98
+Viña del Mar,3,
+La Serena,5,97.94
+Iquique,2,99.76
+Puerto Montt,2,80.72
+Copiapó,2,32.21
+Valparaíso,1,66.82
+Santiago,5,91.63
+Viña del Mar,5,65.59
+Temuco,5,17.35
+Antofagasta,5,25.12
+Copiapó,2,54.29
+Temuco,2,86.41
+Antofagasta,5,
+Temuco,2,56.52
+Valparaíso,3,51.45
+Copiapó,3,83.21
+Linares,1,77.44
+Puerto Montt,1,93.82
+Osorno,1,
+Viña del Mar,2,54.64
+Puerto Montt,4,48.31
+Iquique,3,61.63
+Viña del Mar,2,32.37
+Linares,1,94.56
+Valparaíso,1,52.69
+Antofagasta,5,48.55
+Punta Arenas,5,52.23
+Santiago,2,
+Puerto Montt,5,35.67
+Rancagua,1,50.40
+Linares,1,40.80
+Calama,4,64.04
+Calama,2,76.53
+Puerto Montt,3,82.94
+Puerto Montt,4,90.64
+Temuco,2,51.34
+Antofagasta,4,70.85
+San Antonio,2,39.86
+Valparaíso,2,59.00
+Linares,1,47.12
+Osorno,5,18.33
+Talca,1,45.81
+Temuco,3,85.91
+Valparaíso,5,11.97
+San Antonio,2,39.32
+Arica,4,35.18
+Linares,3,62.04
+Viña del Mar,5,88.07
+San Antonio,5,76.21
+Punta Arenas,3,60.35
+Talca,2,39.00
+Puerto Montt,2,70.33
+Arica,2,23.43
+Temuco,1,36.62
+Antofagasta,5,22.81
+Puerto Montt,3,
+Valparaíso,4,75.03
+Antofagasta,4,89.42
+Iquique,1,33.06
+Talca,4,58.30
+Calama,5,90.38
+San Antonio,1,82.32
+Santiago,2,38.28
+Concepción,4,80.58
+Puerto Montt,2,
+Rancagua,2,77.96
+Osorno,5,38.50
+Arica,3,14.47
+Rancagua,3,70.17
+Viña del Mar,3,88.39
+Antofagasta,4,32.95
+Concepción,2,23.29
+Angol,1,
+Viña del Mar,3,34.15
+Calama,5,43.88
+Angol,4,30.39
+Punta Arenas,1,80.59
+Temuco,5,81.25
+Punta Arenas,2,79.64
+Temuco,3,86.68
+Calama,4,62.63
+Arica,1,35.59
+Puerto Montt,1,42.83
+Angol,4,65.60
+Valparaíso,5,75.55
+Copiapó,2,54.75
+Copiapó,4,30.01
+La Serena,1,42.67
+Angol,1,16.64
+Angol,1,36.32
+Chillán,5,
+Valparaíso,3,17.43
+Chillán,4,
+Santiago,4,12.61
+Rancagua,2,45.59
+Chillán,2,52.89
+Linares,1,54.21
+Concepción,1,36.99
+Santiago,1,20.03
+Talca,1,82.20
+Arica,1,
+Arica,4,64.96
+Concepción,4,24.05
+Antofagasta,3,10.65
+Santiago,3,74.36
+Rancagua,4,35.65
+Copiapó,2,81.30
+Osorno,4,80.54
+Talca,3,59.51
+Valparaíso,1,60.22
+Antofagasta,5,
+Puerto Montt,4,71.72
+Rancagua,2,35.20
+Arica,3,28.23
+Concepción,5,50.46
+Rancagua,2,38.31
+Punta Arenas,4,29.85
+Valparaíso,4,20.62
+Valparaíso,3,30.81
+Talca,4,95.32
+Linares,3,61.42
+Valparaíso,3,37.12
+Antofagasta,2,
+Osorno,1,91.88
+Temuco,2,25.60
+Arica,5,81.39
+Copiapó,3,53.53
+Angol,2,93.50
+Temuco,2,61.46
+Concepción,4,11.19
+Linares,3,
+Valparaíso,5,31.63
+Linares,5,40.09
+Linares,4,
+Rancagua,2,39.31
+Rancagua,4,43.48
+Chillán,3,59.44
+Chillán,4,63.13
+Copiapó,3,93.63
+Talca,1,57.41
+Puerto Montt,2,29.77
+Punta Arenas,5,89.66
+San Antonio,2,78.07
+Valparaíso,2,50.81
+Santiago,2,
+Chillán,5,45.20
+Antofagasta,1,83.33
+Valparaíso,2,99.28
+Punta Arenas,3,76.32
+La Serena,5,28.73
+Linares,4,90.35
+Iquique,5,95.81
+Viña del Mar,4,69.31
+Santiago,4,27.59
+Angol,2,
+Viña del Mar,5,83.38
+Iquique,4,
+Arica,1,72.01
+Copiapó,2,
+Viña del Mar,3,33.51
+Rancagua,4,87.49
+Talca,5,74.61
+Valparaíso,1,80.78
+Rancagua,5,32.26
+San Antonio,3,62.59
+Puerto Montt,5,11.36
+Santiago,1,17.89
+Calama,2,71.58
+Talca,5,90.45
+Santiago,2,16.82
+Angol,4,51.31
+Iquique,3,37.20
+Rancagua,3,
+La Serena,5,15.58
+Rancagua,3,79.06
+Valparaíso,2,95.62
+Viña del Mar,4,30.55
+Angol,1,91.69
+Copiapó,3,77.88
+Viña del Mar,2,47.57
+Chillán,2,79.81
+Chillán,1,68.86
+Iquique,5,20.53
+Calama,4,42.15
+Rancagua,1,95.88
+Chillán,5,16.56
+Arica,2,16.19
+La Serena,2,43.16
+Arica,4,
+San Antonio,2,40.51
+Angol,3,77.72
+Punta Arenas,4,46.50
+Concepción,3,43.70
+Rancagua,4,31.26
+La Serena,2,49.52
+Chillán,5,88.86
+Punta Arenas,3,77.19
+Santiago,1,
+Chillán,3,90.02
+Talca,3,53.32
+Rancagua,3,94.48
+Valparaíso,1,54.58
+Santiago,1,
+Talca,2,
+Rancagua,4,40.54
+Iquique,5,50.42
+Antofagasta,4,68.42
+Calama,5,61.87
+Rancagua,1,55.55
+Copiapó,2,52.39
+Rancagua,4,98.64
+Valparaíso,5,97.94
+Arica,1,94.50
+Valparaíso,3,44.74
+Concepción,4,10.05
+Temuco,1,50.55
+Copiapó,2,
+Linares,5,
+Talca,5,51.99
+Santiago,2,53.69
+Temuco,4,
+Linares,2,82.97
+Angol,4,29.30
+Punta Arenas,3,26.45
+Copiapó,3,79.40
+Copiapó,2,45.16
+Temuco,5,34.20
+Valparaíso,5,67.02
+Linares,3,77.37
+Chillán,5,22.16
+San Antonio,5,
+Rancagua,4,79.72
+Linares,2,76.88
+Santiago,5,54.29
+Valparaíso,5,15.75
+Talca,3,12.96
+Antofagasta,4,54.16
+San Antonio,1,64.69
+Concepción,2,78.75
+Puerto Montt,1,97.84

@@ -1,0 +1,21 @@
+city_name,seismic_level,risk_percent
+La Serena,5,98.94
+Rancagua,5,98.78
+Concepción,5,98.02
+Valparaíso,5,97.94
+La Serena,5,97.94
+Iquique,5,97.65
+San Antonio,5,96.88
+Antofagasta,5,95.83
+Iquique,5,95.81
+Linares,5,95.26
+Copiapó,5,95.08
+Iquique,5,94.02
+Puerto Montt,5,94.00
+Concepción,5,93.55
+Valparaíso,5,93.51
+Temuco,5,93.30
+La Serena,5,93.22
+Temuco,5,93.12
+Calama,5,92.20
+Iquique,5,92.00
